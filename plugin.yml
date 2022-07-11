@@ -1,7 +1,7 @@
 name: ChestShopXSOAP
 main: ChestShop\ChestShop
 version: 6.6.6
-api: [3.0.0]
+api: [4.0.0]
 load: POSTWORLD
 author: xSoap
 description: follow me on instagram @irsan.agil
